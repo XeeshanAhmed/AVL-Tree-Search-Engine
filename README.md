@@ -1,6 +1,7 @@
-# Simple Search Engine
+# AVL Tree Search Engine
 
-This project implements a simple search engine that allows users to search for URLs based on keywords. It utilizes a Binary Search Tree (BST) data structure to efficiently store and retrieve the data.
+This project implements a simple search engine that allows users to search for URLs based on keywords. It utilizes a AVL Tree data structure to efficiently store and retrieve the data.
+The tree automatically balances the node on left and right side to minimize the time complexity as compared to normal Binary search tree(BST).
 
 ## Overview
 
